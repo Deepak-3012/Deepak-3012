@@ -26,6 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-3012&show_icons=true&locale=en" alt="deepak-3012" /></p>
 
 
-<img src="https://raw.githubusercontent.com/Deepak-3012/Deepak-3012/output/snake.svg" alt="Snake animation" />
-
-###
