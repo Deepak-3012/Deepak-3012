@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-![giphy](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/e16f499a-a9e9-4b5f-8098-2bb6d43f04a3)
+(img align="right" alt="Coding" width="400" src="https://github.com/Deepak-3012/Deepak-3012/assets/131615897/e16f499a-a9e9-4b5f-8098-2bb6d43f04a3")
 
 
 - 🌱 I’m currently learning **DSA**
