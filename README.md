@@ -13,8 +13,14 @@
 - 📫 How to reach me **deepak.20021230@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/https://linkedin.com/in/deepak-s-linked3012](https://www.linkedin.com/in/deepak-s-linked3012)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/deepak-s-linked3012" height="30" width="40" /></a>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
