@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 [My Portfolio](https://hilarious-nougat-6be342.netlify.app/](https://hilarious-nougat-6be342.netlify.app/)
+- 👨‍💻 [My Portfolio](https://hilarious-nougat-6be342.netlify.app/)
 
 - 💬 Ask me about **Java , React**
 
