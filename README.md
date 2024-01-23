@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/f212a55e-a843-49fd-878c-a6a3b0bebb9e)
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-![1656679844338](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/5bcea05b-e759-49fd-8fda-2d79be5fffcb)
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/5bcea05b-e759-49fd-8fda-2d79be5fffcb)")
 
 - 🌱 I’m currently learning **DSA**
 
