@@ -69,6 +69,11 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<br/>  
+</p>
+
+<br/>  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-3012&show_icons=true&locale=en&layout=compact" alt="deepak-3012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-3012&show_icons=true&locale=en" alt="deepak-3012" /></p>
