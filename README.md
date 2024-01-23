@@ -1,8 +1,8 @@
-![1656679844338](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/0368a291-f249-4ebc-8add-1487246a339e)![github-header-image](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/f212a55e-a843-49fd-878c-a6a3b0bebb9e)
+
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-![giphy](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/254b0abb-4179-480a-aead-e865f72982ad)
+![1656679844338](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/0368a291-f249-4ebc-8add-1487246a339e)![github-header-image](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/f212a55e-a843-49fd-878c-a6a3b0bebb9e)
 
 - 🌱 I’m currently learning **DSA**
 
