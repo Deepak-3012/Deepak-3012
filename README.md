@@ -74,7 +74,7 @@
 </p>
 
 <br/>  
-![Leetcode Stats](https://leetcard.jacoblin.cool/https://leetcode.com/Deepak-S-3012/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
 
 
 
