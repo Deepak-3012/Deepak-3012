@@ -70,10 +70,7 @@
 </a>  
 </div>  
 
-<br/>  
-</p>
 
-<br/>  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 
