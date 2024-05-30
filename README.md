@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/40c32a9d-8bf5-42ad-b0a0-50ea8be8f6f0)
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 ![giphy](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/53ff1e50-61f4-42ec-8713-99eb83b62afc)
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 [My Portfolio](https://hilarious-nougat-6be342.netlify.app/)
 
-- 💬 Ask me about **Java , React**
+- 💬 Ask me about **Java , React, Machine Learning**
 
 - 📫 How to reach me **deepak.20021230@gmail.com**
 
