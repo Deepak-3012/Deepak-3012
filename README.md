@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-![giphy](https://github.com/Deepak-3012/Deepak-3012/assets/131615897/53ff1e50-61f4-42ec-8713-99eb83b62afc)
 
-- 🌱 I’m currently learning **DSA**
-
-- 👨‍💻 [My Portfolio](https://hilarious-nougat-6be342.netlify.app/)
 
 - 💬 Ask me about **Java , React, Machine Learning**
 
