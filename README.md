@@ -64,7 +64,7 @@
 
 <br/>  
 
-![](https://leetcard.jacoblin.cool/Deepak_3012?ext=heatmap)
+![](https://leetcard.jacoblin.cool/Deepak_3012?width=500&height=500)
 
 
 
